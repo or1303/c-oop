@@ -1,6 +1,6 @@
 // Submitted to Keren Kalif
 // ------------------------------------------------------------
-//Cpp H.W Part 1 --------- Noam Moshe 311463228 ---------------
+//Cpp H.W Part 1 --------- Or Meir Sofer 305205239 ---------------
 //-------------------------------------------------------------
 #include <iostream>
 #include "ECommerceSystem.h"
